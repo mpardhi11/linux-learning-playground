@@ -1,0 +1,13 @@
+Use whatis CMD to get a description any command.
+
+Task 1 :  "mkdir" Command
+Example : Execute the command: whatis mkdir.
+
+Task:  "whatis cat" Command
+Task:  "whatis pwd" Command
+Task:  "whatis rm" Command
+Task:  "whatis cd" Command
+Task:  "whatis echo" Command
+Task:  "whatis grep" Command
+Task:  "whatis cp" Command
+

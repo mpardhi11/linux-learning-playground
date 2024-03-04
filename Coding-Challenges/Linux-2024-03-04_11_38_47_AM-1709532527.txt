@@ -1,0 +1,8 @@
+Question:
+In a Linux environment, you have five directories named old1, old2, old3, old4, and new1. 
+You're uncertain which directory is the most recently created. 
+How would you navigate to the second-to-last created directory using a single command in the terminal?
+
+cd "$(ls -lt | grep '^d' | awk 'NR==2 {print $NF}')"
+
+
