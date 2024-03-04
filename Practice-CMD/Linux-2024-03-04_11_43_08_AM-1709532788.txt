@@ -11,3 +11,20 @@ Task:  "whatis echo" Command
 Task:  "whatis grep" Command
 Task:  "whatis cp" Command
 
+// ===========================================================================//
+mohit@Mr-Chaos-Lappy:~$ whatis mkdir
+mkdir (1)            - make directories
+mkdir (2)            - create a directory
+mohit@Mr-Chaos-Lappy:~$ whatis cat
+cat (1)              - concatenate files and print on the standard output
+mohit@Mr-Chaos-Lappy:~$ whatis pwd
+pwd (1)              - print name of current/working directory
+mohit@Mr-Chaos-Lappy:~$ whatis rm
+rm (1)               - remove files or directories
+mohit@Mr-Chaos-Lappy:~$ whatis cd
+cd: nothing appropriate.
+mohit@Mr-Chaos-Lappy:~$ whatis grep
+grep (1)             - print lines that match patterns
+mohit@Mr-Chaos-Lappy:~$ whatis cp
+cp (1)               - copy files and directories
+mohit@Mr-Chaos-Lappy:~$
